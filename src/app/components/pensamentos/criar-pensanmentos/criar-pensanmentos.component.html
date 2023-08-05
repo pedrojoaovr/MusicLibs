@@ -9,7 +9,7 @@
     <label for="pensamento">Pensamento</label>
     <input
       type="textarea"
-      class="input"
+      class="input input-textarea"
       id="pensamento"
       name="pensamento"
       placeholder="Digite o pensamento"
@@ -18,7 +18,7 @@
     <label for="autoria">Autoria</label>
     <input
       type="text"
-      class="input"
+      class="input input-textarea"
       id="autoria"
       name="autoria"
       placeholder="Digite a autoria ou fonte"
@@ -113,7 +113,7 @@
     </div>
     <div class="acoes">
       <button (click)="criarPenasmento()" class="botao">Salvar</button>
-      <button (click)="cancelar()"class="botao">Cancelar</button>
+      <button routerLink="/listarPensamento" class="botao">Cancelar</button>
   </div>
   </form>
 </section>

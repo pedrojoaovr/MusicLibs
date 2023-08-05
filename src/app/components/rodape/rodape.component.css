@@ -1,31 +1,13 @@
 footer {
-  background: linear-gradient(to right, #8B0000, #800000);
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
+  background: linear-gradient(to right, #E2BF81, #F6E1B5);
   gap: 0px 0px;
-  grid-template-areas:
-    "TextoCopyright LogoRodape .";
-  align-items: center;
+  text-align: center;
   padding: 1rem 2rem;
-  border: 10px solid black;
-
-}
-
-.TextoCopyright {
-  justify-self: center;
-  grid-area: TextoCopyright;
-}
-
-.LogoRodape {
-  justify-self: center;
-  grid-area: LogoRodape;
-  width: 50px;
-
+  border-top: 1px solid black;
 }
 
 footer small {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 @media (max-width: 576px) {
