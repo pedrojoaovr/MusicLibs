@@ -11,11 +11,11 @@
   width: 200px;
 }
 
-.criar-pensamentos {
+.editar-pensamentos {
   padding: 2rem 0;
 }
 
-.criar-pensamentos {
+.editar-pensamentos {
   padding: 2rem 0;
 }
 
@@ -23,7 +23,7 @@
   background:#FAF4D0 ;
 }
 
-.criar-pensamentos form {
+.editar-pensamentos form {
   background:  #E8C07D;
   box-shadow: 8px 8px 0px #853009;
   border: 2px solid black;
@@ -32,13 +32,13 @@
   padding: 2rem;
 }
 
-.criar-pensamentos form label {
+.editar-pensamentos form label {
   color: #000000;
   font-weight: bold;
   margin: 0 0 1rem;
 }
 
-.criar-pensamentos form .input {
+.editar-pensamentos form .input {
   border: none;
 
   height: 40px;
@@ -49,7 +49,7 @@
 }
 
 
-.criar-pensamentos form .textarea {
+.editar-pensamentos form .textarea {
   border: none;
   padding: 1rem 2rem;
   border-radius: 20px;
