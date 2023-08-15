@@ -1,46 +1,88 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "teste1",
-      "autoria": "teste1",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "teste2",
-      "autoria": "teste2",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "teste3'",
-      "autoria": "teste3",
-      "modelo": "modelo3"
-    },
-    {
       "conteudo": "You're on your own, kid",
       "autoria": "Taylor Swift",
       "modelo": "modelo1",
       "id": 4
     },
     {
-      "conteudo": "wqdq",
-      "autoria": "dqdq",
+      "conteudo": "People Can Go From People You Know To People You Don't",
+      "autoria": "Selena Gomez",
       "modelo": "modelo1",
-      "id": 5
+      "id": 10
     },
     {
-      "conteudo": "dqwdq",
-      "autoria": "dqwdq",
-      "modelo": "modelo2",
-      "id": 6
-    },
-    {
-      "conteudo": "Cause karma is my boyfriend karma is a cat poing in my lap cause he loves me karma are realixing thoughts",
+      "conteudo": "I'm only cryptic and Machiavellian 'Cause I care",
       "autoria": "Taylor Swift",
+      "modelo": "modelo2",
+      "id": 11
+    },
+    {
+      "conteudo": "I'm a careful driver ",
+      "autoria": "Lizzy Mcalpine",
       "modelo": "modelo1",
-      "id": 7
+      "id": 12
+    },
+    {
+      "conteudo": "I'd be satisfied forever with a couple years of this",
+      "autoria": "Carly Rae Jepsen ",
+      "modelo": "modelo2",
+      "id": 13
+    },
+    {
+      "conteudo": "Sometimes when I can't sleep, it's just a matter of time before I'm hearing things",
+      "autoria": "Phoebe Bridgers ",
+      "modelo": "modelo1",
+      "id": 14
+    },
+    {
+      "conteudo": "It drives you crazy getting old ",
+      "autoria": "Lorde",
+      "modelo": "modelo2",
+      "id": 15
+    },
+    {
+      "conteudo": "Be Sweet to me baby ",
+      "autoria": "Japanese Breakfast ",
+      "modelo": "modelo3",
+      "id": 16
+    },
+    {
+      "conteudo": "Kiss me, try to fix it, could you just try to listen?",
+      "autoria": "Taylor Swift ",
+      "modelo": "modelo1",
+      "id": 17
+    },
+    {
+      "conteudo": "I'm a mirrorball ",
+      "autoria": "Taylor Swift ",
+      "modelo": "modelo1",
+      "id": 18
+    },
+    {
+      "conteudo": "But you take care of me when i have to leave at dawn ",
+      "autoria": "HAIM ",
+      "modelo": "modelo2",
+      "id": 19
+    },
+    {
+      "conteudo": "A pathelogical people pleaser ",
+      "autoria": "Taylor Swift ",
+      "modelo": "modelo1",
+      "id": 20
+    },
+    {
+      "conteudo": "gygyu",
+      "autoria": "ihiuh",
+      "modelo": "modelo2",
+      "id": 21
+    },
+    {
+      "conteudo": "ijfoijfoiwiofjw",
+      "autoria": "fwfwfw",
+      "modelo": "modelo2",
+      "id": 22
     }
   ]
 }
