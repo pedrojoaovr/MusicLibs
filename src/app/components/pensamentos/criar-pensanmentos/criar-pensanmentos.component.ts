@@ -27,7 +27,8 @@ export class CriarPensanmentosComponent implements OnInit {
       autoria:['', Validators.compose([
         Validators.required,
         Validators.minLength(5)])],
-      modelo:['modelo1']
+      modelo:['modelo1'],
+      favorito:[false]
     })
   }
 

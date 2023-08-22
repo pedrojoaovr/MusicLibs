@@ -4,85 +4,85 @@
       "conteudo": "You're on your own, kid",
       "autoria": "Taylor Swift",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": true
     },
     {
       "conteudo": "People Can Go From People You Know To People You Don't",
       "autoria": "Selena Gomez",
       "modelo": "modelo1",
-      "id": 10
+      "id": 10,
+      "favorito": false
     },
     {
       "conteudo": "I'm only cryptic and Machiavellian 'Cause I care",
       "autoria": "Taylor Swift",
       "modelo": "modelo2",
-      "id": 11
+      "id": 11,
+      "favorito": false
     },
     {
       "conteudo": "I'm a careful driver ",
       "autoria": "Lizzy Mcalpine",
       "modelo": "modelo1",
-      "id": 12
+      "id": 12,
+      "favorito": false
     },
     {
       "conteudo": "I'd be satisfied forever with a couple years of this",
       "autoria": "Carly Rae Jepsen ",
       "modelo": "modelo2",
-      "id": 13
+      "id": 13,
+      "favorito": false
     },
     {
       "conteudo": "Sometimes when I can't sleep, it's just a matter of time before I'm hearing things",
       "autoria": "Phoebe Bridgers ",
       "modelo": "modelo1",
-      "id": 14
+      "id": 14,
+      "favorito": true
     },
     {
       "conteudo": "It drives you crazy getting old ",
       "autoria": "Lorde",
       "modelo": "modelo2",
-      "id": 15
+      "id": 15,
+      "favorito": true
     },
     {
       "conteudo": "Be Sweet to me baby ",
       "autoria": "Japanese Breakfast ",
       "modelo": "modelo3",
-      "id": 16
+      "id": 16,
+      "favorito": false
     },
     {
       "conteudo": "Kiss me, try to fix it, could you just try to listen?",
       "autoria": "Taylor Swift ",
       "modelo": "modelo1",
-      "id": 17
+      "id": 17,
+      "favorito": false
     },
     {
       "conteudo": "I'm a mirrorball ",
       "autoria": "Taylor Swift ",
       "modelo": "modelo1",
-      "id": 18
+      "id": 18,
+      "favorito": true
     },
     {
       "conteudo": "But you take care of me when i have to leave at dawn ",
       "autoria": "HAIM ",
       "modelo": "modelo2",
-      "id": 19
+      "id": 19,
+      "favorito": true
     },
     {
       "conteudo": "A pathelogical people pleaser ",
       "autoria": "Taylor Swift ",
       "modelo": "modelo1",
-      "id": 20
-    },
-    {
-      "conteudo": "gygyu",
-      "autoria": "ihiuh",
-      "modelo": "modelo2",
-      "id": 21
-    },
-    {
-      "conteudo": "ijfoijfoiwiofjw",
-      "autoria": "fwfwfw",
-      "modelo": "modelo2",
-      "id": 22
+      "id": 20,
+      "favorito": true
     }
   ]
 }
